@@ -21,9 +21,6 @@ const Hero = (props) => (
       <SectionText>
         I am a computer scientist from UC Irvine looking to become a software engineer.
       </SectionText>
-      <Button onClick={() => openInNewTab("https://www.linkedin.com/in/dongtran/")}>
-        Linkedin
-      </Button>
     </LeftSection>
   </Section>
 );
