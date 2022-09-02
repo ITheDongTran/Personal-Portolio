@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'Full-Stack Website',
     description: "Built a website using React, Node, Next and JavaScript that is presented here.",
-      image: '/images/1.png',
+      image: 'images/1.png',
       tags: ['JavaScript','Node', 'Next', 'React'],
     source: 'https://google.com',
     visit: 'https://google.com',
@@ -11,7 +11,7 @@ export const projects = [
   {
     title: 'Posture Check Discord Bot',
     description: "Designed and developed a Discord bot that scans user\'s input and sends a message to the Discord client to be reminded to fix their posture using Discord\'s bot API.",
-    image: '/images/2.png',
+    image: 'images/2.png',
     tags: ['Python','Discord API', 'Flask', 'Replit DB'],
     source: 'https://google.com',
     visit: 'https://google.com',
@@ -20,7 +20,7 @@ export const projects = [
   {
     title: 'Want to see more?',
     description: "Check out my GitHub and/or contact me on Linkedin for my resume.",
-      image: '/images/3.png',
+      image: 'images/3.png',
       tags: ['Various'],
     source: 'https://google.com',
     visit: 'https://google.com',
