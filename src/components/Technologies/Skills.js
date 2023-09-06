@@ -17,6 +17,7 @@ const Skills = () =>  (
         <ListContainer>Languages</ListContainer>
         <ListParagraph>
           Python <br  />
+          Java <br   />
           C++ <br />
           JavaScript <br  />
           SQL
@@ -26,6 +27,7 @@ const Skills = () =>  (
         <DiFirebase size="3rem" />
         <ListContainer>Stack Frameworks</ListContainer>
         <ListParagraph>
+          Dagger <br  />
           React <br  />
           Next<br />
           Node <br />
@@ -37,6 +39,7 @@ const Skills = () =>  (
         <DiGit size="3rem" />
         <ListContainer>Developer Tools</ListContainer>
         <ListParagraph>
+          AWS <br />
           Git <br />
           GitHub <br />
           MySQL<br />
