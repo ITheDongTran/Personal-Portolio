@@ -46,7 +46,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      I am currently living in San Jose, finishing up my degree, and looking to extend this timeline :D
+      I am currently living in Irvine working at Amazon and looking to extend this timeline :D
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
