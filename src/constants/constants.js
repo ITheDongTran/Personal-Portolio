@@ -41,7 +41,8 @@ export const TimeLineData = [
   { year: 2017, text: 'Started education at UCI majoring Pharmaceutical Sciences.', },
   { year: 2018, text: 'Joined Cal Teach as a biology teacher and taught for half a year.', },
   { year: 2019, text: 'Took my first CS class fell in love and swapped my major to Computer Science.', },
-  { year: 2022, text: 'Looking to find a carrer in software engineering.', },
+  { year: 2022, text: 'Looking to find a career in software engineering.', },
   { year: 2023, text: 'Finished a summer internship at Amazon on the PXT team.', },
-  { year: 2023, text: 'Expected to graudate with a job that I love.'},
+  { year: 2023, text: 'Graduated from UCI'},
+  {year: 2024, text: 'Working at Amazon as a software developer engineer on the PXT team.'},
 ];
